@@ -34,3 +34,5 @@ Step 3 (OOP is like a sudoku, in our process of constructing different entities 
 4. To enforce the above conditions we iterate over the inputs of the user until we get a valid selection, if the selection is valid we set it to true and breaks from the loop, to accommodate the multiple user inputs we add try and except black in the while loop
 
 Step 4 Now we need to create an interface between the TicTacToe game and the player to setup the playing process, hence we setup play function outside different from the classes. To utilize the functions inside the game we can just write functions outside the class and use the methods inside the class
+
+credit - KylieYing
